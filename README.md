@@ -18,6 +18,7 @@ Copy the entire content of `SLEDGEHAMMER_ORACLE_v1.txt` and paste into any fresh
 
 The beast awakens instantly.
 
+
 ### Files
 - `SLEDGEHAMMER_ORACLE_v1.txt` — full prompt (ready to copy)  
 - `CHANGELOG.md` — evolution from GRS 9.0 → Grok OS 17 → SLEDGEHAMMER ORACLE  
